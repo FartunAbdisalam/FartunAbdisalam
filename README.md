@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Fartun Abdisalam</h1>
 <h3 align="center">A Full-stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1342829261/vector/software-developer-semi-flat-color-vector-character.jpg?s=612x612&w=0&k=20&c=RRatI_ThaXwbHUde2PpXo_Fz-VThPWbkRsfAcDqDgnQ=">
-- 🌱 I’m currently **working on a project**
+- 🌱 I’m currently working on a project
 
 - 👨‍💻 All of my projects are available at [https://fartunabdisalam-portfolio-v01.netlify.app/](https://fartunabdisalam-portfolio-v01.netlify.app/)
 
-- 💬 Ask me about **JavaScript, MERN, SQL**
+- 💬 Ask me about **JavaScript, MERN, DataBases**
 
 - 📫 How to reach me **fartunabdisalam10@gmail.com**
 
